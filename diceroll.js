@@ -1,5 +1,6 @@
 //dice roll number generator
 //abe, tony and bradley
+console.log(`$[iRandomNumber]`)
 var iRollDice;
 var i;
 iRollDice = prompt("How many times we want to roll the dice?",5);
